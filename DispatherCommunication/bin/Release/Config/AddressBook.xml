@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<Page FunctionName="车站值班台">
+		<!-- 连锁区 -->
+		<Group>
+			
+		</Group>
+		<!-- 调度站点 -->
+		<Station>
+			<StationItem Name="000" PhoneNumber="000" Address="192.168.31.1"/>
+			<StationItem Name="111" PhoneNumber="111" Address="192.168.31.1"/>
+			<StationItem Name="222" PhoneNumber="222" Address="192.168.31.1"/>
+			<StationItem Name="333" PhoneNumber="333" Address="192.168.31.1"/>
+			<StationItem Name="444" PhoneNumber="444" Address="192.168.31.1"/>
+			<StationItem Name="555" PhoneNumber="555" Address="192.168.31.1"/>
+			<StationItem Name="666" PhoneNumber="666" Address="192.168.31.1"/>
+			<StationItem Name="777" PhoneNumber="777" Address="192.168.31.1"/>
+			<StationItem Name="888" PhoneNumber="888" Address="192.168.31.1"/>
+			<StationItem Name="999" PhoneNumber="999" Address="192.168.31.1"/>
+			<StationItem Name="123" PhoneNumber="123" Address="192.168.31.1"/>
+			<StationItem Name="234" PhoneNumber="234" Address="192.168.31.1"/>
+			<StationItem Name="345" PhoneNumber="345" Address="192.168.31.1"/>
+			<StationItem Name="456" PhoneNumber="456" Address="192.168.31.1"/>
+		</Station>
+	</Page>
+	
+	<Page FunctionName="直通电话">
+		<!-- 连锁区 -->
+		<Group>
+			<GroupItem GroupName="龙江换乘室">
+				<StationItem Name = "龙江" PhoneNumber="000" Address="192.168.2.2"/>
+				<StationItem Name = "草场门" PhoneNumber="111" Address="192.168.2.2"/>
+			</GroupItem>
+			<GroupItem GroupName="鸡鸣寺换乘室">
+				<StationItem Name = "龙江" PhoneNumber="111" Address="192.168.2.2"/>
+				<StationItem Name = "草场门" PhoneNumber="222" Address="192.168.2.2"/>
+			</GroupItem>
+			<GroupItem GroupName="东流换成室">
+				<StationItem Name = "龙江" PhoneNumber="111" Address="192.168.2.2"/>
+				<StationItem Name = "草场门" PhoneNumber="222" Address="192.168.2.2"/>
+			</GroupItem>
+			<GroupItem GroupName="仙林湖上行换">
+				<StationItem Name = "龙江" PhoneNumber="111" Address="192.168.2.2"/>
+				<StationItem Name = "草场门" PhoneNumber="222" Address="192.168.2.2"/>
+			</GroupItem>
+			<GroupItem GroupName="仙林湖下行换">
+				<StationItem Name = "龙江" PhoneNumber="111" Address="192.168.2.2"/>
+				<StationItem Name = "草场门" PhoneNumber="222" Address="192.168.2.2"/>
+			</GroupItem>
+		</Group>
+		<!-- 调度站点 -->
+		<Station>
+			<StationItem Name="龙江" PhoneNumber="000" Address="192.168.2.2"/>
+			<StationItem Name="草场门" PhoneNumber="111" Address="192.168.2.2"/>
+			<StationItem Name="云南路" PhoneNumber="222" Address="192.168.2.2"/>
+			<StationItem Name="鼓楼" PhoneNumber="333" Address="192.168.2.2"/>
+			<StationItem Name="鸡鸣寺" PhoneNumber="444" Address="192.168.2.2"/>
+			<StationItem Name="九华山" PhoneNumber="555" Address="192.168.2.2"/>
+			<StationItem Name="岗子村" PhoneNumber="666" Address="192.168.2.2"/>
+			<StationItem Name="蒋王庙" PhoneNumber="777" Address="192.168.2.2"/>
+			<StationItem Name="王家湾" PhoneNumber="888" Address="192.168.2.2"/>
+			<StationItem Name="聚宝山" PhoneNumber="999" Address="192.168.2.2"/>
+			<StationItem Name="徐庄" PhoneNumber="123" Address="192.168.2.2"/>
+			<StationItem Name="金马路" PhoneNumber="234" Address="192.168.2.2"/>
+			<StationItem Name="汇通" PhoneNumber="345" Address="192.168.2.2"/>
+			<StationItem Name="灵山" PhoneNumber="456" Address="192.168.2.2"/>
+			<StationItem Name="东流" PhoneNumber="567" Address="192.168.2.2"/>
+			<StationItem Name="孟北" PhoneNumber="678" Address="192.168.2.2"/>
+			<StationItem Name="桦墅" PhoneNumber="789" Address="192.168.2.2"/>
+			<StationItem Name="仙林湖" PhoneNumber="890" Address="192.168.2.2"/>			
+		</Station>
+	</Page>
+</config>

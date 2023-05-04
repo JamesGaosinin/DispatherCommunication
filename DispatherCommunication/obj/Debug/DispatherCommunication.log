@@ -1,0 +1,32 @@
+﻿生成启动时间为 2023/4/25 17:19:09。
+     1>项目“C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\DispatherCommunication.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtANGLE /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtNetwork /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtWidgets /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtXml /I..\source /Zi /nologo /W1 /WX- /MP /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WIDGETS_LIB /D QT_XML_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\\" /Fd"C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\source\NetClient.cpp ..\source\PhoneFunctionManagement.cpp
+         NetClient.cpp
+         PhoneFunctionManagement.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../bin/Debug\\DispatherCommunication.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Widgetsd.lib Qt5Xmld.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../bin/Debug\DispatherCommunication.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../bin/Debug\DispatherCommunication.lib" /MACHINE:X86 /SAFESEH "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\DispatherCommunication.res"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\AddressBookWidget.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\DispatherCommunication.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\main.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\NetClient.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\Phone.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\PhoneBookWidget.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\PhoneCtrlWidget.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\PhoneFunctionManagement.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\PhoneRecordDialog.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\moc_DispatherCommunication.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\moc_PhoneCtrlWidget.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\moc_AddressBookWidget.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\moc_PhoneBookWidget.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\moc_Phone.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\moc_PhoneRecordDialog.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\moc_NetClient.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\moc_PhoneFunctionManagement.obj"
+         "C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../obj/Debug\qrc_DispatherCommunication.obj"
+         DispatherCommunication.vcxproj -> C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\../bin/Debug\DispatherCommunication.exe
+     1>已完成生成项目“C:\Users\admin\Desktop\DispatherCommunication(简单调度软件)\DispatherCommunication\project\DispatherCommunication.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.70
